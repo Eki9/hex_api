@@ -1,6 +1,6 @@
 # Hex API
 
-### Used tecchnologies:
+### Used technologies:
 - Node.js
 - Express
 - Mocha + Chai (Unit Tests)
