@@ -5,7 +5,6 @@
 - Express
 - Mocha + Chai (Unit Tests)
 - Supertest (Integration Tests)
-- Postman (API Tests)
 
 ### Start server by running:
 
