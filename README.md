@@ -6,6 +6,8 @@
 - Mocha + Chai (Unit Tests)
 - Supertest (Integration Tests)
 
+## How to Run the Project
+
 ### Clone the repository:
 
 ``` bash
