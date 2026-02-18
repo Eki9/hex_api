@@ -1,4 +1,4 @@
-# Hex APi
+# Hex API
 
 ### Used tecchnologies:
 - Node.js
