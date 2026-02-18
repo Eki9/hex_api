@@ -31,3 +31,8 @@ npm start
 ``` bash
 npm test
 ```
+
+### Test REST API in Postman or browser:
+``` bash
+http://localhost:3000/api/hex-to-rgb/HEXCODE
+```
